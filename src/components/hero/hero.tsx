@@ -12,7 +12,7 @@ export default function Hero() {
                         <SubstackWidget />
                     </div>
                     <div className="text-[15px] text-gray-500 mt-7 flex flex-col items-center">
-                    <p className="text-center px-4">Join 650+ 😎 smart & curious readers uncovering the world of Osint</p>
+                    <p className="text-center px-4">Join 850+ 😎 smart & curious readers uncovering the world of Osint</p>
                     <p>Its absolutely free 🔥</p>
                     </div>
                 </div>
