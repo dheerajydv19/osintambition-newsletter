@@ -54,7 +54,7 @@ export default function Clients() {
                     </div>
                 </div>
 
-                <h3 className="text-gray-400 mt-12 text-[15px] md:text-lg text-center px-6">Proud Supporters of Osint Ambition | Thank You</h3>
+                <h3 className="text-gray-400 mt-12 text-[15px] md:text-lg text-center px-6">Proud Supporters of OSINT Updates | Thank You</h3>
             </div>
         </div>
 
