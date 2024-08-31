@@ -5,9 +5,9 @@ const Footer = () => {
         <footer className="mt-auto w-full py-6 px-6 lg:px-48 mx-auto bg-background border-t border-gray-200/15 flex flex-col md:flex-row items-center justify-between">
             <div className='flex items-center'>
                 <div>
-                    <a className="flex-none text-base md:text-xl font-semibold text-white" href="#" aria-label="Brand">Osint Ambition</a>
+                    <a className="flex-none text-base md:text-xl font-semibold text-white" href="#" aria-label="Brand">OSINT Updates</a>
                 </div>
-                <p className='border-l ml-4 pl-4 leading-none py-1 text-white'>2024 Osint Ambition Co.</p>
+                <p className='border-l ml-4 pl-4 leading-none py-1 text-white'>2024 © OSINT Ambition.</p>
             </div>
             <div>
                 <a className="size-8 inline-flex justify-center items-center gap-x-2 text-sm font-semibold rounded-full border border-transparent text-gray-500 hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none dark:text-neutral-400 dark:hover:bg-neutral-700" href="#">
